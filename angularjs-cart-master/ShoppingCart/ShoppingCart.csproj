@@ -62,8 +62,8 @@
       <Link>readme.txt</Link>
     </None>
     <Content Include="default.htm" />
-    <None Include="img\products\apl.jpg" />
-    <None Include="img\products\ban.jpg" />
+    <None Include="img\products\BBLIN.jpg" />
+    <None Include="img\products\DMAG.jpg" />
     <None Include="img\products\grp.jpg" />
     <None Include="img\products\ctp.jpg" />
     <None Include="img\products\org.jpg" />
@@ -76,7 +76,7 @@
     <None Include="img\products\pmg.jpg" />
     <None Include="img\logo.png" />
     <None Include="img\products\pap.jpg" />
-    <None Include="img\products\avc.jpg" />
+    <None Include="img\products\BYWD.jpg" />
     <None Include="img\products\fig.jpg" />
     <None Include="img\products\grf.jpg" />
     <None Include="img\products\gua.jpg" />
